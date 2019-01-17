@@ -1,32 +1,32 @@
 [
   {
-    id: 1,
-    title: 'One River',
-    author: 'Wade Davis'
+    "id": 1,
+    "title": "One River",
+    "author": "Wade Davis"
   },
   {
-    id: 2,
-    title: 'On the Move: a life',
-    author: 'Oliver Sacks'
+    "id": 2,
+    "title": "On the Move: a life",
+    "author": "Oliver Sacks"
   },
   {
-    id: 3,
-    title: 'Poor Charlie\'s Almanack',
-    author: 'Charles T. Munger'
+    "id": 3,
+    "title": "Poor Charlie's Almanack",
+    "author": "Charles T. Munger"
   },
   {
-    id: 4,
-    title: 'Modes of Thought',
-    author: 'Alfred North Whitehead'
+    "id": 4,
+    "title": "Modes of Thought",
+    "author": "Alfred North Whitehead"
   },
   {
-    id: 5,
-    title: 'Love Song',
-    author: 'Christopher'
+    "id": 5,
+    "title": "Love Song",
+    "author": "Christopher"
   },
   {
-    id: 6,
-    title: 'Deep Work',
-    author: 'Cal Newport'
+    "id": 6,
+    "title": "Deep Work",
+    "author": "Cal Newport"
   }
 ]
